@@ -12,11 +12,8 @@
 
 #### github.io 网站：[https://zyq5945.github.io/SARS-Data-Arrange/china](https://zyq5945.github.io/diseasedataanalysis/overview.html?StartTime=2003/4/22&MinDay=-116&MaxDay=120&DaysOfTreatment=32&DataUrl=https://zyq5945.github.io/SARS-Data-Arrange/china)
 
-#### gitee.io 网站：[https://zyq5945.gitee.io/sars-data-arrange/china](https://zyq5945.gitee.io/diseasedataanalysis/overview.html?StartTime=2003/4/22&MinDay=-116&MaxDay=120&DaysOfTreatment=32&DataUrl=https://zyq5945.gitee.io/sars-data-arrange/china)
-
 #### github.com 仓库：https://raw.githubusercontent.com/zyq5945/SARS-Data-Arrange/master/china
 
-#### gitee.com 仓库：https://gitee.com/zyq5945/SARS-Data-Arrange/raw/master/china
 
 注：数据计算的开始时间点是2003/4/22。
 
@@ -27,11 +24,8 @@
 
 #### github.io 网站：[https://zyq5945.github.io/SARS-Data-Arrange/area](https://zyq5945.github.io/diseasedataanalysis/overview.html?DataUrl=https://zyq5945.github.io/SARS-Data-Arrange/area)
 
-#### gitee.io 网站：[https://zyq5945.gitee.io/sars-data-arrange/area](https://zyq5945.gitee.io/diseasedataanalysis/overview.html?DataUrl=https://zyq5945.gitee.io/sars-data-arrange/area)
-
 #### github.com 仓库：https://raw.githubusercontent.com/zyq5945/SARS-Data-Arrange/master/area
 
-#### gitee.com 仓库：https://gitee.com/zyq5945/SARS-Data-Arrange/raw/master/area
 
 注：数据计算的开始时间点是2003-02-27。
 
