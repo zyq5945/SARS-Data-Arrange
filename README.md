@@ -1,7 +1,10 @@
 
 ## 1.介绍说明
 
+首先声明下，分析的中国SARS数据来源是百度搜索“site:china.com.cn title:通报全国内地非典型肺炎最新疫情(附表)”, 是由中国卫生部新闻办公室整理发布的表格数据（Google同样的搜索条件搜不出来），个人有点粗心大意，急急忙忙的可能什么地方搞错了也有极大可能性。
+
 本项目是使用[diseasedataarrange](https://github.com/zyq5945/diseasedataarrange)程序，针对中国卫生部发布的SARS疫情和WHO总计SARS疫情，自动生成整理后的数据。
+
 
 ## 2.不同平台访问地址
 
@@ -126,3 +129,26 @@
 
 
 [《使用OriginLab的Boltzmann模型拟合仿真预测中国COVID-19(2019-nCov)疫情康复情况》](https://zyq5945.github.io/zyq5945/blog_13.html)
+
+----
+
+**一些资料数据下载或者查看地址:**
+
+[百度搜索中国卫生部新闻办公室关于通报全国内地非典型肺炎最新疫情](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=site%3Achina.com.cn%20title%3A%E9%80%9A%E6%8A%A5%E5%85%A8%E5%9B%BD%E5%86%85%E5%9C%B0%E9%9D%9E%E5%85%B8%E5%9E%8B%E8%82%BA%E7%82%8E%E6%9C%80%E6%96%B0%E7%96%AB%E6%83%85(%E9%99%84%E8%A1%A8)&rsv_t=019dfSk6Qnv5ClzTNrmN8NP%2FsYgNMo4XLVdU50bpxioZnL1QX3kRl8g0SZg&rsv_enter=1&rsv_dl=ib&rsv_sug3=2)
+
+[非典（SARS，萨斯，沙士）是如何在天津爆发流行的？](http://blog.sina.com.cn/s/blog_8791cb400102vfv0.html)
+
+[全国内地非典型肺炎疫情统计表（截至8月16日内地疫情）]( http://www.china.com.cn/chinese/zhuanti/feiyan/386427.htm)
+
+[卫生部4月23日通报全国内地非典型肺炎最新疫情](http://www.china.com.cn/chinese/2003/Apr/319444.htm)
+
+[卫生部5月18日通报全国内地非典型肺炎最新疫情](http://www.china.com.cn/chinese/2003/May/331415.htm)
+
+[扒的原始表格数据地址在这下载](./data/SARS_China_Raw.xlsx)
+
+[整理后的表格数据地址在这下载](./data/SARS_China.xlsx)
+
+[百度百科---SARS事件](https://baike.baidu.com/item/SARS%E4%BA%8B%E4%BB%B6/7702261?fr=aladdin)
+
+[维基百科---SARS事件]( https://zh.wikipedia.org/wiki/SARS%E4%BA%8B%E4%BB%B6)
+
